@@ -8,9 +8,9 @@
 
 在HTML中添加如下代码：
 
-    /* http */
+  /* http */
     <link rel='stylesheet' href='http://malash.googlecode.com/svn/trunk/gmail-scrollbar/gmail-scrollbar.css' type='text/css' media='screen' />
-    /* https */
+	/* https */
     <link rel='stylesheet' href='https://malash.googlecode.com/svn/trunk/gmail-scrollbar/gmail-scrollbar.css' type='text/css' media='screen' />
 
 ###更多介绍
